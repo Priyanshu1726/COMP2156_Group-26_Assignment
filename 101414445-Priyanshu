@@ -1,5 +1,5 @@
 git checkout -b studentid101414445
-touch studentid1_gb.txt
+touch studentid101414445_gb.txt
 echo "The George Brown College of Applied Arts and Technology is a public, fully accredited college of applied arts and technology with three campuses in downtown Toronto (Ontario, Canada)." > studentid1_gb.txt
 git add studentid101414445_gb.txt
 git commit -m "Added George Brown College information"
