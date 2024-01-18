@@ -1,0 +1,4 @@
+touch 101414445_gb.txt
+echo "George Brown College" > 101414445_gb.txt
+git add 101414445_gb.txt
+git commit -m "Added George Brown College information"
