@@ -1,0 +1,4 @@
+touch 101414445_devops.txt
+echo "COMP 2156 DevOps course" >101414445_devops.txt
+git add 101414445_devops.txt
+git commit -m "Added COMP 2156 DevOps course information"
