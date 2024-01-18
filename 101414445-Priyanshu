@@ -26,7 +26,7 @@ Continuous testing and integration in DevOps lead to higher-quality software. Au
 Scalability and Flexibility:
 
 DevOps practices enable better scalability of infrastructure and applications. With automation and cloud technologies, teams can easily scale resources up or down based on demand, ensuring optimal performance." > studentid101414445_sdlc.txt
-git add studentid1_sdlc.txt
+git add studentid101414445_sdlc.txt
 git commit -m "Added SDLI information"
 git push origin master
 
